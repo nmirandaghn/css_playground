@@ -1,0 +1,61 @@
+Concepts to remember
+
+Bootstrap classes
+
+  Typography
+    container
+    page-header
+    small
+    mark
+    del
+    u
+  
+  Aligment and transaformation
+    text-left
+    text-center
+    text-right
+    text-justify
+    text-nowrap
+    text-lowercase
+    text-uppercase
+
+  Floats
+    pull-left
+    pull-right
+
+  Blockquote
+    blockquote
+
+  Lists
+    list-unstyled
+    list-inline
+
+  Code
+    code
+    kbd
+
+  Contextual color
+    text-primary
+    text-success
+    text-warning
+    text-info
+    text-danger
+    text-muted
+
+  Contextual background color
+    bg-primary
+    bg-success
+    bg-warning
+    bg-info
+    bg-danger
+    bg-muted
+  
+  Buttons
+    btn-default
+    btn-primary
+    btn-success
+    btn-info
+    btn-warning
+    btn-danger
+    btn-link
+  

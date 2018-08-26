@@ -1,0 +1,45 @@
+Inline vs Block Level Elements
+Inline elements
+  Do no start a new line
+  Take only the necessary width
+
+Block Elements
+  Start on a new line
+  Take full width available
+
+  Block Level: <div>, <h1>--<h6>, <form>
+  Inline Level: <span>, <img>, <a>
+  
+Tag Attributes
+All tags have Attributes
+Provide information about an element
+Paces withing the start tag
+Key/Value pairs (id="name"
+
+HTML5 Semantic Tags
+A semantic element clearly describes its meaning to both the browser and the developer
+
+<header>
+<footer>
+<aside>
+<main>
+<article>
+<nav>
+<section>
+</section>
+<details>
+
+
+3 Methods for adding CSS
+Inline CSS: Directly in the html element (NO!)
+Internal CSS: Using <style> tags within a single document
+External CSS: Linking an external CSS
+
+Position in CSS
+Static
+Relative
+Absolute
+Fixed
+Initial
+Inherit
+
